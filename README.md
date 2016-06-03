@@ -11,7 +11,7 @@ The React.js Collection
 * [React实践图片画廊应用（下）](http://www.imooc.com/learn/652)
 
 ###示例
-* [http://www.ruanyifeng.com/blog/2015/03/react.html](React 入门实例教程)  讲解了12个Demo示例，有[源码](https://github.com/ruanyf/react-demos)
+* [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)  讲解了12个Demo示例，有[源码](https://github.com/ruanyf/react-demos)
 
 
 
